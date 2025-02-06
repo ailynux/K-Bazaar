@@ -64,19 +64,37 @@
 
 ## **🛠️ Tech Stack**   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
 
+## **💻 Backend – [C# .NET 8](https://dotnet.microsoft.com/en-us/) + [Dapper](https://dapper-tutorial.net/) + [SQL Server](https://www.microsoft.com/en-us/sql-server)**
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/)  
+[![Dapper](https://img.shields.io/badge/Dapper-Blue?style=for-the-badge&logo=database&logoColor=white)](https://dapper-tutorial.net/)  
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)  
 
-### **💻 Backend** (C# + .NET 8 + Dapper)
-✅ **C# .NET 8 Web API** (Minimal API architecture for speed & security)  
-✅ **Dapper ORM** (Fast, lightweight SQL queries)  
-✅ **SQL Server / LocalDB** (Easy setup for asset transactions)  
-✅ **JWT Authentication** (User roles: **investors, sellers, asset managers, firms**)  
-✅ **Live Transaction Logging** (Audit trail for financial accountability)  
+**🟦 .NET 8 Minimal API** – Blazing fast, lightweight, and secure REST API  
+**⚡ Dapper ORM** – Raw SQL **performance** with insane query speed  
+**💾 SQL Server / LocalDB** – Secure, **scalable** database for all asset transactions  
+**🔐 JWT Authentication** – Role-based security (**Investors, Sellers, Asset Managers, Firms**)  
+**📜 Real-Time Logging** – Full audit trail for **financial accountability**  
 
-### **💻 Frontend** (React + MUI DataGrid)
-✅ **React + JavaScript** (Sleek cyberpunk interface)  
-✅ **Material-UI DataGrid** (Displays investment portfolios, trade listings, and assets)  
-✅ **Axios** (API calls for financial transactions and trade tracking)  
-✅ **Dark Theme UI** (Neon aesthetics + terminal-style interactions)  
+---
+
+## **🎨 Frontend – [React](https://react.dev/) + [Material-UI DataGrid](https://mui.com/x/react-data-grid/) + [Axios](https://axios-http.com/)**
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)  
+[![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)  
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)  
+
+**⚛️ React + JavaScript** – Cyberpunk UI with lightning-fast **frontend interactions**  
+**📊 MUI DataGrid** – Advanced data table for **investment portfolios & trade listings**  
+**🔄 Axios API Calls** – Handles **financial transactions & trade tracking**  
+**🌙 Dark Mode UI** – **Neon aesthetics + terminal-style interactions** for the ultimate hacker vibe  
+
+## **EXTRA's:**
+**📡 WebSockets / SignalR** – Real-time **trade updates & asset tracking**  
+**🛠 CI/CD Pipeline** – Automated **GitHub Actions & Azure Deployments**  
+**📈 Performance Optimized** – Reduced API latency with **lazy loading & caching**  
+
+---
+
+💾 **Want to contribute?** [Fork the repo on GitHub](https://github.com/ailynux)  
 
 ---
 
