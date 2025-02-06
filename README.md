@@ -1,4 +1,4 @@
-# KUROYAMI BAZAAR (黒闇市場)  <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="200"> 
+# KUROYAMI BAZAAR (黒闇市場)  <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="200">   <img src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" width="200" />
 # FUTURISTIC PAWN & FINANCIAL EXCHANGE 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
@@ -7,12 +7,12 @@
 
 ## A Digital Trading Hub for High-Tech Assets and Contracts
 
-### **Project Overview**
+### **Project Overview**  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
 
 **Kuroyami Bazaar** is a futuristic **noir-inspired financial marketplace** where rare cybernetic goods, intellectual property, and high-value assets are traded in a sleek, fully digital exchange system. This platform integrates **high-tech pawn transactions, asset leasing, data brokering, and an underground financial network** while maintaining a legitimate facade.
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+   
    
 </div>
 
@@ -28,6 +28,7 @@
   - Track **ownership, contract status, and pricing trends**.
   - Assign **asset managers** to oversee major transactions.
   - Provide **escrow protection** for secure deals.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ### **2️⃣ The High-Tech Pawn Exchange (黒闇市場 - Kuroyami Bazaar)**
 
@@ -35,6 +36,7 @@
   - Buy/sell **cutting-edge technology** (e.g., AI cores, biotech implants, research prototypes).
   - **Asset Rarity Levels:** Common, Proprietary, Experimental, Government-Restricted.
   - View **ownership history, digital authenticity certificates, and warranties**.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ### **3️⃣ The Investment & Trade Board (影市場 - Kage Ichiba)**
 
@@ -42,6 +44,7 @@
   - Displays **high-value listings and financial trends**.
   - Track **real-time investment opportunities**.
   - Leaderboard of **top traders and firms** ranked by portfolio performance.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ### **4️⃣ Underground Financial Network (Schwarze Kasse - Black Cash)**
 
@@ -49,6 +52,7 @@
   - Transactions are done via **Deadcoin**, a secure digital financial system.
   - **Investment Pools & Funding Networks**: Private investment firms and angel networks.
   - **Debt & Collateral Management** for high-value loans and risk mitigation.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ### **5️⃣ Eclipse Vault - Encrypted Data Trading** 🌑🔒
 
@@ -58,7 +62,8 @@
   
 ---
 
-## **🛠️ Tech Stack**
+## **🛠️ Tech Stack**   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
+
 
 ### **💻 Backend** (C# + .NET 8 + Dapper)
 ✅ **C# .NET 8 Web API** (Minimal API architecture for speed & security)  
@@ -75,7 +80,7 @@
 
 ---
 
-## **📌 Database Schema**
+## **📌 Database Schema** <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="100">
 
 ### **Tables:**
 
@@ -129,7 +134,16 @@
 
 ---
 
-## ** Additional Enhancements**
+<div style="display: flex; gap: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160" />
+    <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="160" />
+    <img src="https://user-images.githubusercontent.com/74038190/216654106-c24cc9c0-d319-404e-9bbc-402639637bd9.gif" width="160" />
+    <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
+    <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="160" />
+</div>
+
+
+## **Additional Enhancements**
 
 - **Search & Filtering:** Asset sorting by **value, risk level, trade history**.
 - **Dark Mode UI:** **Cyberpunk financial district aesthetic**.
@@ -138,4 +152,6 @@
 - **Institutional Investment Integration:** Large firms can **pool funds and back high-risk projects**.
 
 ---
+
+
 
